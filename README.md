@@ -2,6 +2,8 @@
 
 Experiment basierend auf https://github.com/stho32/CH001-Console-Linux-CSharp
 
+[![.NET](https://github.com/stho32/CH001-Console-Linux-CSharp-Iteration01/actions/workflows/dotnet.yml/badge.svg)](https://github.com/stho32/CH001-Console-Linux-CSharp-Iteration01/actions/workflows/dotnet.yml)
+
 ## Usage
 
 ### get a random number between 1 and 10
